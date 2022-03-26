@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1834" started-at="2022-03-26T10:06:53 CET" finished-at="2022-03-26T10:06:55 CET">
+  <suite name="Default suite" duration-ms="1794" started-at="2022-03-26T13:41:53 CET" finished-at="2022-03-26T13:41:55 CET">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1834" started-at="2022-03-26T10:06:53 CET" finished-at="2022-03-26T10:06:55 CET">
-      <class name="com.krish.rest_rest_assured_training.SampleGetRequest_02">
-        <test-method status="PASS" signature="getRequestExample1()[pri:0, instance:com.krish.rest_rest_assured_training.SampleGetRequest_02@7f13d6e]" name="getRequestExample1" duration-ms="1554" started-at="2022-03-26T10:06:53 CET" finished-at="2022-03-26T10:06:55 CET">
+    <test name="Default test" duration-ms="1794" started-at="2022-03-26T13:41:53 CET" finished-at="2022-03-26T13:41:55 CET">
+      <class name="com.krish.rest_rest_assured_training.SamplePutRequest">
+        <test-method status="PASS" signature="deleteRequestExample()[pri:0, instance:com.krish.rest_rest_assured_training.SamplePutRequest@4e7dc304]" name="deleteRequestExample" duration-ms="1543" started-at="2022-03-26T13:41:53 CET" finished-at="2022-03-26T13:41:54 CET">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getRequestExample1 -->
-        <test-method status="PASS" signature="getRequestExample2()[pri:0, instance:com.krish.rest_rest_assured_training.SampleGetRequest_02@7f13d6e]" name="getRequestExample2" duration-ms="242" started-at="2022-03-26T10:06:55 CET" finished-at="2022-03-26T10:06:55 CET">
+        </test-method> <!-- deleteRequestExample -->
+        <test-method status="PASS" signature="putRequestExample()[pri:0, instance:com.krish.rest_rest_assured_training.SamplePutRequest@4e7dc304]" name="putRequestExample" duration-ms="214" started-at="2022-03-26T13:41:54 CET" finished-at="2022-03-26T13:41:55 CET">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getRequestExample2 -->
-      </class> <!-- com.krish.rest_rest_assured_training.SampleGetRequest_02 -->
+        </test-method> <!-- putRequestExample -->
+      </class> <!-- com.krish.rest_rest_assured_training.SamplePutRequest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
